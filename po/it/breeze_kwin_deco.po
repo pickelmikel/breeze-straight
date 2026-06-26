@@ -199,7 +199,7 @@ msgstr "Disegna la sfumatura di sfondo della barra del titolo"
 #. i18n: ectx: property (text), widget (QCheckBox, roundedCorners)
 #: config/ui/breezeconfigurationui.ui:169
 #, kde-format
-msgid "Round bottom corners of windows with no borders"
+msgid "Round all corners of windows with no borders"
 msgstr "Angoli inferiori arrotondati delle finestre senza bordi"
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab_4)
@@ -411,7 +411,7 @@ msgstr "Modifica"
 #~ msgid "Maximum"
 #~ msgstr "Massima"
 
-#~ msgid "Round bottom corners"
+#~ msgid "Round all corners"
 #~ msgstr "Angoli inferiori arrotondati"
 
 #~ msgid "Si&ze:"

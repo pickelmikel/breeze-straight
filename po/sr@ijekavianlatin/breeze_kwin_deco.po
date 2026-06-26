@@ -207,7 +207,7 @@ msgstr "Preliv u pozadini prozora"
 #: config/ui/breezeconfigurationui.ui:169
 #, fuzzy, kde-format
 #| msgid "Add handle to resize windows with no border"
-msgid "Round bottom corners of windows with no borders"
+msgid "Round all corners of windows with no borders"
 msgstr "Ručka za promenu veličine prozora bez ivica"
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab_4)

@@ -196,7 +196,7 @@ msgstr "Tegn gradient for titellinjebaggrund"
 #: config/ui/breezeconfigurationui.ui:169
 #, fuzzy, kde-format
 #| msgid "Add handle to resize windows with no border"
-msgid "Round bottom corners of windows with no borders"
+msgid "Round all corners of windows with no borders"
 msgstr "Tilføj håndtag til at ændre størrelse på vinduer uden kant"
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab_4)

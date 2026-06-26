@@ -197,7 +197,7 @@ msgstr "창 배경 그라디언트 그리기"
 #. i18n: ectx: property (text), widget (QCheckBox, roundedCorners)
 #: config/ui/breezeconfigurationui.ui:169
 #, kde-format
-msgid "Round bottom corners of windows with no borders"
+msgid "Round all corners of windows with no borders"
 msgstr "경계선이 없는 창의 아래쪽 모서리 둥글게"
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab_4)
@@ -409,7 +409,7 @@ msgstr "편집"
 #~ msgid "Maximum"
 #~ msgstr "최대"
 
-#~ msgid "Round bottom corners"
+#~ msgid "Round all corners"
 #~ msgstr "아래쪽 모서리 둥글게"
 
 #~ msgid "Si&ze:"

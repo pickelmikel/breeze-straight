@@ -200,7 +200,7 @@ msgstr "Dibujar gradiente del fondo de la barra de título"
 #. i18n: ectx: property (text), widget (QCheckBox, roundedCorners)
 #: config/ui/breezeconfigurationui.ui:169
 #, kde-format
-msgid "Round bottom corners of windows with no borders"
+msgid "Round all corners of windows with no borders"
 msgstr "Esquinas inferiores redondeadas de ventanas sin bordes"
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab_4)

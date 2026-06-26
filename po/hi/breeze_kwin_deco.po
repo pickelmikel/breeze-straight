@@ -195,7 +195,7 @@ msgstr "शीर्षक पट्टी पृष्ठभूमि में
 #: config/ui/breezeconfigurationui.ui:169
 #, fuzzy, kde-format
 #| msgid "Add handle to resize windows with no border"
-msgid "Round bottom corners of windows with no borders"
+msgid "Round all corners of windows with no borders"
 msgstr "बिना सीमारेखा वाली विंडो का आकार बदलने के लिए हैंडल जोड़ें"
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab_4)

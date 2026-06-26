@@ -195,7 +195,7 @@ msgstr "Başlığın fon rəng keçidini (qradient, genəltmə) çəkin"
 #: config/ui/breezeconfigurationui.ui:169
 #, fuzzy, kde-format
 #| msgid "Add handle to resize windows with no border"
-msgid "Round bottom corners of windows with no borders"
+msgid "Round all corners of windows with no borders"
 msgstr "Çərçivəsiz pəncərənin ölçüsünü dəyişmək üçün künc əlavə edin"
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab_4)

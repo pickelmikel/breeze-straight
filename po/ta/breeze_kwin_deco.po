@@ -197,7 +197,7 @@ msgstr "தலைப்புப்பட்டையின் பின்ப�
 #: config/ui/breezeconfigurationui.ui:169
 #, fuzzy, kde-format
 #| msgid "Add handle to resize windows with no border"
-msgid "Round bottom corners of windows with no borders"
+msgid "Round all corners of windows with no borders"
 msgstr "விளிம்பில்லா சாளரங்களின் அளவை மாற்ற ஓர் பிடிப்பியை காட்டு"
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab_4)

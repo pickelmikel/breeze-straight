@@ -200,7 +200,7 @@ msgstr "Kleurverloop van titelachtergrond tekenen"
 #. i18n: ectx: property (text), widget (QCheckBox, roundedCorners)
 #: config/ui/breezeconfigurationui.ui:169
 #, kde-format
-msgid "Round bottom corners of windows with no borders"
+msgid "Round all corners of windows with no borders"
 msgstr "Onderhoeken van vensters zonder rand afronden"
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab_4)
@@ -412,7 +412,7 @@ msgstr "Bewerken"
 #~ msgid "Maximum"
 #~ msgstr "Maximum"
 
-#~ msgid "Round bottom corners"
+#~ msgid "Round all corners"
 #~ msgstr "Onderste hoeken afronden"
 
 #~ msgid "Si&ze:"

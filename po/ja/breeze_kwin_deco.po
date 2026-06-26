@@ -205,7 +205,7 @@ msgstr "タイトルバーの背景にグラデーションを表示"
 #. i18n: ectx: property (text), widget (QCheckBox, roundedCorners)
 #: config/ui/breezeconfigurationui.ui:169
 #, kde-format
-msgid "Round bottom corners of windows with no borders"
+msgid "Round all corners of windows with no borders"
 msgstr "枠がないウィンドウの下端の角を丸くする"
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab_4)

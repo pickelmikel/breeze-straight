@@ -199,7 +199,7 @@ msgstr "ציור הדרגת צבעים ברקע שורות כותרת"
 #. i18n: ectx: property (text), widget (QCheckBox, roundedCorners)
 #: config/ui/breezeconfigurationui.ui:169
 #, kde-format
-msgid "Round bottom corners of windows with no borders"
+msgid "Round all corners of windows with no borders"
 msgstr "פינות תחתונות מעוגלות של חלונות בלי מסגרת"
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab_4)
@@ -411,7 +411,7 @@ msgstr "עריכה"
 #~ msgid "Maximum"
 #~ msgstr "מרבי"
 
-#~ msgid "Round bottom corners"
+#~ msgid "Round all corners"
 #~ msgstr "פינות תחתונות מעוגלות"
 
 #~ msgid "Si&ze:"

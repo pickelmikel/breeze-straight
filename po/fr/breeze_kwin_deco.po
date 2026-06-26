@@ -214,7 +214,7 @@ msgstr "Dessiner le dégradé d'arrière plan de la barre de titre"
 #. i18n: ectx: property (text), widget (QCheckBox, roundedCorners)
 #: config/ui/breezeconfigurationui.ui:169
 #, kde-format
-msgid "Round bottom corners of windows with no borders"
+msgid "Round all corners of windows with no borders"
 msgstr "Coins inférieurs arrondis des fenêtres sans bordures"
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab_4)
@@ -426,7 +426,7 @@ msgstr "Modifier"
 #~ msgid "Maximum"
 #~ msgstr "Maximum"
 
-#~ msgid "Round bottom corners"
+#~ msgid "Round all corners"
 #~ msgstr "Coins inférieurs arrondis"
 
 #~ msgid "Si&ze:"

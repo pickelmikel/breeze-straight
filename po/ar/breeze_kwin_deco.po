@@ -200,7 +200,7 @@ msgstr "ارسم تدرّج خلفيّة لشريط العنوان"
 #. i18n: ectx: property (text), widget (QCheckBox, roundedCorners)
 #: config/ui/breezeconfigurationui.ui:169
 #, kde-format
-msgid "Round bottom corners of windows with no borders"
+msgid "Round all corners of windows with no borders"
 msgstr "زوايا سفلية مستديرة للنوافذ بلا حدود"
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab_4)
@@ -412,7 +412,7 @@ msgstr "حرّر"
 #~ msgid "Maximum"
 #~ msgstr "القصوى"
 
-#~ msgid "Round bottom corners"
+#~ msgid "Round all corners"
 #~ msgstr "حواف سفلية مستديرة"
 
 #~ msgid "Si&ze:"

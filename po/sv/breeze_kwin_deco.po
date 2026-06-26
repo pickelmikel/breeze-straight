@@ -197,7 +197,7 @@ msgstr "Rita toning av namnlistens bakgrund"
 #. i18n: ectx: property (text), widget (QCheckBox, roundedCorners)
 #: config/ui/breezeconfigurationui.ui:169
 #, kde-format
-msgid "Round bottom corners of windows with no borders"
+msgid "Round all corners of windows with no borders"
 msgstr "Runda nedre hörn i fönster utan kanter"
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab_4)
@@ -409,7 +409,7 @@ msgstr "Redigera"
 #~ msgid "Maximum"
 #~ msgstr "Maximal"
 
-#~ msgid "Round bottom corners"
+#~ msgid "Round all corners"
 #~ msgstr "Rundade nedre hörn"
 
 #~ msgid "Si&ze:"

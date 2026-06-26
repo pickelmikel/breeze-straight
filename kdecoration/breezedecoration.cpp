@@ -582,7 +582,7 @@ void Decoration::paint(QPainter *painter, const QRectF &repaintRegion)
         painter->setBrush(window()->color(window()->isActive() ? ColorGroup::Active : ColorGroup::Inactive, ColorRole::Frame));
 
         // clip away the top part
-        if (!hideTitleBar()) {
+        if (m_internalSettings->roundedCorners()) {
             painter->setClipRect(QRectF(0, borderTop(), size().width(), size().height() - borderTop()), Qt::IntersectClip);
         }
 
